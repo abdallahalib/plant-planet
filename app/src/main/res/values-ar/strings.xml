@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlantPlanet</string>
+    <string name="camera_required">مطلوب صلاحيات الكاميرا</string>
+    <string name="category">الفئة</string>
+    <string name="choose_crop">من فضلك إختر محصول للمتابعة</string>
+    <string name="comments">التعليقات</string>
+    <string name="crop">المحصول</string>
+    <string name="crops">المحاصيل</string>
+    <string name="delete">حذف</string>
+    <string name="deleted_successfully">تم الحذف بنجاح</string>
+    <string name="done_successfully">تمت العملية بنجاح</string>
+    <string name="firestore_crops">crops_ar</string>
+    <string name="firestore_library">library_ar</string>
+    <string name="gps_required">GPS مطلوب</string>
+    <string name="hear">إستماع</string>
+    <string name="history">السجل</string>
+    <string name="history_empty">سجل عمليات الفحص يظهر هنا</string>
+    <string name="import_image">استيراد</string>
+    <string name="internet_required">مطلوب اتصال بالانترنت</string>
+    <string name="library">المكتبة</string>
+    <string name="locate">علم</string>
+    <string name="location_required">مطلوب صلاحيات الموقع</string>
+    <string name="management">التدبير</string>
+    <string name="maps">الخرائط</string>
+    <string name="name">الاسم</string>
+    <string name="not_supported">هذة الميزة غير مدعومة على جهازك</string>
+    <string name="result">النتيجة</string>
+    <string name="save">حفظ</string>
+    <string name="saved_successfully">تم الحفظ بنجاح</string>
+    <string name="something_wrong">هناك خطب ما من فضلك حاول مره اخرى</string>
+    <string name="sort">رتب حسب</string>
+    <string name="symptoms">الأعراض</string>
+    <string name="title_activity_maps">الخريطة</string>
+    <string name="unknown_disease">لا يمكننا التعرف على هذا المرض</string>
+    <string name="language_not_supported">هذة اللغة غير مدعومة</string>
+</resources>

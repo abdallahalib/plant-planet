@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25109875754",
+    "firebase_url": "https://plant-planet-app.firebaseio.com",
+    "project_id": "plant-planet-app",
+    "storage_bucket": "plant-planet-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25109875754:android:e4a83b5e41bd09e7e0c753",
+        "android_client_info": {
+          "package_name": "com.plantplanet.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25109875754-j1dkghjhoghra55h2e04q94ift90aq33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plantplanet.android",
+            "certificate_hash": "d6027fb59b56f4af56cef896aed6da65ff6282c9"
+          }
+        },
+        {
+          "client_id": "25109875754-26t4gi3uvoi5umab33nas4h7epvvjkaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApgjW9SRBpwl9IQ1vcP3ar91KE1TH--2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25109875754-26t4gi3uvoi5umab33nas4h7epvvjkaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PlantPlanet</string>
+    <string name="internet_required">Internet connection is required</string>
+    <string name="result">Result</string>
+    <string name="save">Save</string>
+    <string name="locate">Locate</string>
+    <string name="not_supported">This feature is not supported on your device</string>
+    <string name="saved_successfully">Saved Successfully</string>
+    <string name="deleted_successfully">Deleted Successfully</string>
+    <string name="history">History</string>
+    <string name="library">Library</string>
+    <string name="maps">Maps</string>
+    <string name="hear">Hear</string>
+    <string name="delete">Delete</string>
+    <string name="location_required">Location permission is required</string>
+    <string name="done_successfully">Done successfully</string>
+    <string name="crops">Crops</string>
+    <string name="choose_crop">Please choose your crop to continue</string>
+    <string name="sort">Sort by</string>
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="crop">Crop</string>
+    <string name="gps_required">GPS is required</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="comments">Comments</string>
+    <string name="management">Management</string>
+    <string name="history_empty">Your check history appears here</string>
+    <string name="import_image">Import</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="something_wrong">Something went wrong, please try again</string>
+    <string name="camera_required">Camera permission is required</string>
+    <string name="unknown_disease">We cannot recognize this disease</string>
+    <string name="firestore_library">library</string>
+    <string name="firestore_crops">crops</string>
+    <string name="language_not_supported">Your language is not supported</string>
+</resources>

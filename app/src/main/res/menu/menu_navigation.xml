@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/crops" android:id="@+id/navigationCrops" android:icon="@drawable/ic_favorite"/>
+    <item android:id="@+id/navigationImport" android:title="@string/import_image" android:icon="@drawable/ic_image"/>
+    <item android:title="@string/library" android:id="@+id/navigationLibrary" android:icon="@drawable/ic_library"/>
+    <item android:id="@+id/navigationMaps" android:title="@string/maps" android:icon="@drawable/ic_map"/>
+</menu>
